@@ -1,4 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
+/*
 #include <stdio.h>
 #include <stdbool.h>
 #define ROW 5
@@ -43,3 +44,4 @@ bool FindNum(int ar[ROW][COL], int key)
 			printf("key%d not found.\n", key);
 		return 0;
 	}
+	*/
